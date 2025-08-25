@@ -1,0 +1,6 @@
+.DS_Store
+src/node_modules/
+src/coverage
+dist/
+static-analysis.datadog.yml
+src/secrets.json
